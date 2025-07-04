@@ -21,8 +21,8 @@
 #  include <GL/glew.h>
 #  include <GL/wglew.h>
 #else
-#  include <GL/glew.h>
-#  include <GL/gl.h>
+//#  include <GL/glew.h>
+//#  include <GL/gl.h>
 #endif
 
 #endif /* OPEN_GL_H */
